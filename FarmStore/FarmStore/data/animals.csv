@@ -1,0 +1,4 @@
+species,age,price,specialty,breeder,sold
+Duck,2 months,8.0,false,,false
+Rabbit,3 months,25.0,false,,false
+Hamster,4 months,12.0,false,,false
